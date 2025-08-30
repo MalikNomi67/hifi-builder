@@ -1,28 +1,35 @@
 ---
 name: Bug report
 about: Report a bug or unexpected behavior in the HiFi Builder addon
+title: "[BUG] "
 labels: bug
+assignees: ''
 ---
 
-**Describe the bug**
+## 🐞 Describe the bug
 A clear and concise description of what the bug is.
 
-**Blender version**
-e.g. Blender 4.2 (Windows 10)
+---
 
-**Addon version**
-HiFi Builder v3.8
+## 🔁 Steps to Reproduce
+Steps to reproduce the behavior:
+1. Go to '...'
+2. Click on '...'
+3. Observe error
 
-**Steps to reproduce**
-1. ...
-2. ...
-3. Expected vs actual results
+---
 
-**Error message / Console output**
-Paste Blender console error text here.
+## ✅ Expected behavior
+A clear and concise description of what you expected to happen.
 
-**Blend file / Minimal example (optional)**
-Attach a small .blend that reproduces the issue.
+---
 
-**Additional context**
-Any other info (OS, other addons active, screenshots).
+## 💻 Environment
+- **Blender version**: (e.g. 4.2 Windows 10)
+- **Addon version**: (e.g. HiFi Builder v3.8)
+- **Other addons enabled**: (list if relevant)
+
+---
+
+## 📜 Error messages / Console output
+Paste Blender console output or error message here:
