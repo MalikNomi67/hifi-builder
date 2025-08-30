@@ -13,8 +13,8 @@ A clear and concise description of what the bug is.
 
 ## 🔁 Steps to Reproduce
 Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '...'
+1. Go to Blender Options
+2. Click on Toggle Console Window
 3. Observe error
 
 ---
