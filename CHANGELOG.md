@@ -4,7 +4,7 @@ All notable changes to this project are documented here.
 
 ---
 
-## [v3.8] – 2025-31-08
+## [v3.8] – 31-08-2025
 ### Added
 - Live preview in real-time
 - Universal inspector supports all objects
