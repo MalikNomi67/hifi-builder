@@ -1,6 +1,6 @@
 # HiFi Architecture Builder (Blender Addon)
 
-**HiFi Builder v3.8** is a Blender addon that lets you quickly generate architectural elements like **walls, floors, pillars, domes, arches, stairs, windows, doors, balconies, fences**, and more — all with **live preview** and customizable parameters.
+**HiFi Builder v3.9.5** is a Blender addon that lets you quickly generate architectural elements like **walls, floors, pillars, domes, arches, stairs, windows, doors, balconies, fences**, and more — all with **live preview** and customizable parameters.
 
 ---
 
